@@ -1,3 +1,3 @@
 
 # test project
-this is project board testing 
+Exploring github
